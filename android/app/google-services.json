@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "648138473889",
+    "project_id": "spendwise-naman",
+    "storage_bucket": "spendwise-naman.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648138473889:android:148add7d42481de8064be0",
+        "android_client_info": {
+          "package_name": "com.naman.spendwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648138473889-gcbouc2obgmbl171vj8s2bhid48jeccd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHKA8e00G0aP6wF00PHdlO4ePNmJ2bE6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648138473889-gcbouc2obgmbl171vj8s2bhid48jeccd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648138473889-fq7hk9p5mfg8jbi3coidm38jiug9h578.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expenseTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
